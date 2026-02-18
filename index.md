@@ -3,7 +3,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "UC San Diego & San Diego State"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+venue: "UCSD OSPO & San Diego State Research & Cyberinfrastructure"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
 address: "Virtal"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
@@ -327,7 +327,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to ....
+    This workshop is open to UC San Diego and SDSU Research & Cyberinfrastructre affiliates.
 </p>
 {% endcomment %}
 

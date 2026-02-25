@@ -255,10 +255,6 @@ special instructions.
 <p>We are dedicated to providing a positive and accessible learning environment for all. 
   We do not require participants to provide documentation of disabilities or disclose any unnecessary personal information. 
   However, we do want to help create an inclusive, accessible experience for all participants. 
-  We encourage you to share any information that would be helpful to make your Carpentries experience accessible.
-  To request accessibility support for this workshop, please fill out the 
-  <a href="https://carpentries.typeform.com/to/B2OSYaD0">accessibility support request form</a>.
-  If you have questions or need assistance with the accessibility support form please <a href="mailto:team@carpentries.org">email us</a>.
 </p>
 <p>
   <a href="https://glosario.carpentries.org/">Glosario</a> is a multilingual glossary 
@@ -327,7 +323,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to UC San Diego and SDSU Research & Cyberinfrastructre affiliates.
+    This workshop is open to UC San Diego affiliates and SDSU Research & Cyberinfrastructre affiliates.
 </p>
 {% endcomment %}
 
@@ -372,7 +368,7 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 <hr/>
 {% endif %}
 
-
+<!--
 {% comment %}
 SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endcomment %}
@@ -394,6 +390,9 @@ change the value of `carpentry` to `incubator`.
 <p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
 <p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
 {% endif %}
+-->
+
+
 
 <hr/>
 
